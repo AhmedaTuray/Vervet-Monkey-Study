@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+openpyxl
+matplotlib
+pydicom
+Pillow
+scikit-image
+roifile
+statsmodels
+scikit-learn
